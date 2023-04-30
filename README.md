@@ -12,7 +12,7 @@ Planned:
 -Add more quotes
 -Quotes translation to English(and maybe Japanese)
 -Add more background image
--Add Bulls and Cows('숫자야구(number baseball)' in Korean.)
+-Add 'Bulls and Cows' game('숫자야구(number baseball)' in Korean.)
 -Add Recommended video list
 -Add Birthday D-day
 -Add Meme of today
