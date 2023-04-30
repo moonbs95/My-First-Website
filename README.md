@@ -21,3 +21,4 @@ Planned:
 -Web Designing with CSS
 -Add Household account
 -Add 'Delete All' function to To-do List and household account
+-Translate whole website to Englsih(and maybe Japanese)
