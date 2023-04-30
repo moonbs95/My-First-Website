@@ -15,8 +15,8 @@ function onLoginSubmit(event) {
 
 function paintGreetings(username) {
     const greetingsArray = [`Hello ${username}`, `How is it going, ${username}?`, `Welcome ${username}`];
-    const randomGreetings = greetingsArray[Math.round(Math.random() * 2)];
-    greetings.innertext = randomGreetings;
+    const randomGreetings = greetingsArray[Math.round(Math.random() * (greetingsArray.length-1))];
+    greetings.innerText = randomGreetings;
     greetings.classList.remove(HIDDEN_CLASSNAME);
 }
 
